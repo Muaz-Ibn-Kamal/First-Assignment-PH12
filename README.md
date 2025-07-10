@@ -6,7 +6,7 @@ Welcome to my very first web development assignment! This project marks the begi
 
 ## 🌟 What’s Inside
 
-- A clean and responsive web layout  
+- A clean  web layout  
 - HTML5 semantic structure  
 - CSS styling with design flair  
 - Zero frameworks — 100% handcrafted  
