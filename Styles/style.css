@@ -86,6 +86,7 @@ ul {
 }
 li{
     color: #8987A1;
+    font-family: Inter;
 }
 footer{
     display: flex;
