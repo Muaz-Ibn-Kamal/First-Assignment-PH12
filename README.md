@@ -34,6 +34,7 @@ Welcome to my very first web development assignment! This project marks the begi
 Through this assignment, I learned:
 - How to structure HTML pages properly
 - The basics of styling with CSS
+- Learn about github & git 
 - The importance of visual balance and spacing
 - Patience and problem-solving while debugging
 
