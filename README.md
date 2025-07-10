@@ -8,7 +8,7 @@ Welcome to my very first web development assignment! This project marks the begi
 
 - A clean  web layout  
 - HTML5 semantic structure  
-- CSS styling with design flair  
+- CSS styling   
 - Zero frameworks — 100% handcrafted  
 - A beginner’s hustle packed with ambition 💪
 
