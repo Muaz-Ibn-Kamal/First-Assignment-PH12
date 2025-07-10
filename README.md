@@ -1,6 +1,6 @@
 # 🚀 First-Assignment-PH12
 
-Welcome to my very first web development assignment! This project marks the beginning of my coding journey under the **Programming Hero ** course Batch 12. It’s built using raw **HTML** and **CSS**, showcasing the fundamentals with passion, effort, and creativity.
+Welcome to my very first web development assignment! This project marks the beginning of my coding journey under the Programming Hero  course Batch 12. It’s built using raw **HTML** and **CSS**, showcasing the fundamentals with passion, effort, and creativity.
 
 ---
 
