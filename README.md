@@ -36,7 +36,7 @@ Through this assignment, I learned:
 - The basics of styling with CSS
 - Learn about github & git 
 - The importance of visual balance and spacing
-- Patience and problem-solving while debugging
+
 
 ---
 
