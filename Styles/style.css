@@ -1,0 +1,120 @@
+.russo-one-regular {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    
+    
+    background-image: url(../Assets/Hero-bg.png);
+    width: 100%;
+    
+    /* max-width: 1440px; */
+    height: 698px;
+    
+
+}
+.navbar{
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+    padding: 50px 0px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.navbar h3{
+    color: var(--Primary-Color, #4E47FF);
+    font-family: Inter;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%; 
+}
+.btn{
+    border-radius: 10px;
+    background: #4E47FF;
+    display: flex;
+    height: 48px;
+    padding: 12px 36px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.spn{
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 24px */
+}
+.header-hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 75%; */
+    max-width: 905px;
+    margin: 6% auto ;
+    gap: 37px;
+    /* border: 1px solid black; */
+}
+.header-hero-text{
+    color: #252432;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+ul {
+   display: flex;
+   gap: 48px;
+   justify-content: center;
+   list-style: none;
+   margin-top: 20px;
+
+}
+li{
+    color: #8987A1;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3em;
+    background-color: white;
+    padding: 104px 0 103px 0;
+
+}
+.Footer-text{
+    color: var(--Primary-Color, #4E47FF);
+    text-align: center;
+    font-family: Inter;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.footer-paragraph{
+    margin-top: 8px;
+    color: #8987A1;
+    text-align: center;
+    width: 531px;
+    /* Paragraph */
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
