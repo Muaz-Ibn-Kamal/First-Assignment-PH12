@@ -385,7 +385,9 @@ form button:hover {
 .review-card p {
   color: #555;
   font-size: 0.95rem;
-  margin-bottom: 20px;
+  gap: 5px;
+  margin-bottom: 5px;
+  /* margin-bottom: 20px; */
 }
 
 .reviewer {
@@ -407,13 +409,14 @@ form button:hover {
   /* align-items: center; */
   justify-content: center;
   height: fit-content;
+
 }
 .name {
   color: #6b6a6a;
   font-family: Inter;
   font-weight: 500;
   font-size: 0.9rem;
-  margin: 0;
+  
 }
 
 .date {
@@ -422,6 +425,7 @@ form button:hover {
   color: #888;
   margin: 0;
 }
+
 /* Final Section  */
 
 .final-section {
